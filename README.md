@@ -9,3 +9,6 @@ Data Preprocessing(Python, Pandas, Zipfile, Kaggle)
 Dashboard Visualization(Tableau)
 - Creating five different types of charts
 - Connecting all the visualization into a dynamic and user-based dashboard
+
+You can actually manipulate this dashboard on Tableau Public by clicking the link below:
+https://public.tableau.com/app/profile/yudy.chen/viz/MyLondonBikeDashboard/LondonBikeDashboard
